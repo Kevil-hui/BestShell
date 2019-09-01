@@ -1,5 +1,3 @@
-### 欢迎关注个人博客： https://yzddmr6.tk/
-
 ### 世界上最好用的php大马
 
 ### 具体介绍：https://yzddmr6.tk/2019/09/01/BestShell/
